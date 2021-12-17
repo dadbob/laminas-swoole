@@ -60,4 +60,3 @@ WORKDIR /var/www
 EXPOSE 8101
 EXPOSE 8080
 
-#CMD ["/usr/local/bin/php", "/var/www/public/server.php"]
